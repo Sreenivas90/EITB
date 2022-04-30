@@ -1,0 +1,26 @@
+Hi 
+my self sreenivasulu
+
+//java basic 
+
+public class Main {
+  public static void main(String[] args) {
+    System.out.println("Hello World");
+  }
+}
+
+
+
+// java if condition 
+int x = 20;
+int y = 18;
+if (x > y) {
+  System.out.println("x is greater than y");
+}
+
+// java string 
+
+String txt = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
+System.out.println("The length of the txt string is: " + txt.length());
+
+
